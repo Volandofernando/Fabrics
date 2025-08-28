@@ -1,5 +1,5 @@
 # ================================
-# 📌 Professional Fabric Recommender Web App (Dissertation-Ready)
+# 📌 Professional Fabric Recommender Web App
 # ================================
 
 import streamlit as st
@@ -166,4 +166,5 @@ with tab4:
 
     📌 Author: *Your Name*  
     """)
+
 
