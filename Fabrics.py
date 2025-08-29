@@ -164,7 +164,8 @@ with tab4:
     - Provides professional UI for real-world usability  
     - Includes evaluation metrics and dataset insights  
 
-    📌 Author: *Your Name*  
+    📌 Author: *Volando Fernando*  
     """)
+
 
 
