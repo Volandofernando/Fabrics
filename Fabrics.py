@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import yaml
 import numpy as np
 import altair as alt
 from utils import load_config, load_datasets, detect_features_and_target, train_model, evaluate_model
@@ -104,3 +105,4 @@ with tab4:
 
     📌 Author: *Volando Fernando*  
     """)
+
