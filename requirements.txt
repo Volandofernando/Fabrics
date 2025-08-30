@@ -5,3 +5,6 @@ scikit-learn
 altair
 shap
 openpyxl
+pyyaml==6.0.2
+
+
